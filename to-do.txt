@@ -1,0 +1,6 @@
+To-Do List:
+
+1. Write customTimer.
+2. Do it customTimer header only.
+3. Write makefile.
+4. Plan project structure.
